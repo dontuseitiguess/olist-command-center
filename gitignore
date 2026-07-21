@@ -1,0 +1,5 @@
+# Ne jamais versionner les données brutes (licence + poids)
+*.csv
+data/
+archive/
+*.zip
