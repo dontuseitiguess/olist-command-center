@@ -1,7 +1,6 @@
--- ============================================================
 -- 04_checks.sql  —  reconciliation & data-quality checks
 -- Run each query and read the result. These are what prove rigour.
--- ============================================================
+
 
 -- 1) Excluded orders (Rule 1): how many, and what share?
 SELECT
